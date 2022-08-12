@@ -51,3 +51,8 @@ Block Explorer is an open-source web tool that allows you to view information ab
 
 [Etherscan](https://etherscan.io/)  
 EtherScan is a Block Explorer, Search, API, and Analytics Platform for Ethereum, a decentralized smart contracts platform. You can use this website to explore and answer questions related to Ethereum Blockchain.
+
+## Blockchain and Healthcare
+[Blockchain in Healthcare and Life Sciences](https://pages.consensys.net/blockchain-in-healthcare-and-life-sciences)   
+[Consensys Health](https://consensys.net/blog/press-release/consensys-announces-healthcare-spin-off-consensys-health/)  
+[Consensys Blockchain in Healthcare](https://consensys.net/blockchain-use-cases/healthcare-and-the-life-sciences/)   
