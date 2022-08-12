@@ -42,3 +42,10 @@ This introduction explains the most important things about cryptocurrencies and 
 [What is the difference between Public and Permissioned Blockchain](https://www.coindesk.com/learn/how-does-blockchain-technology-work/)  
 An article that introduces a description of the three technologies that make up blockchain technology: cryptographic keys, a distributed network and a network servicing protocol.
 
+## Overall View
+[Blockchain](https://www.blockchain.com/explorer)  
+Blockchain is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world and using new technology to build a radically better financial system. You can use this website to explore and answer questions related to Bitcoin Blockchain.
+[Bitcoin Block Explorer](https://blockexplorer.com/)  
+Block Explorer is an open-source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain. You can use this website to explore and answer questions related to Bitcoin Blockchain.
+[Etherscan](https://etherscan.io/)  
+EtherScan is a Block Explorer, Search, API, and Analytics Platform for Ethereum, a decentralized smart contracts platform. You can use this website to explore and answer questions related to Ethereum Blockchain.
