@@ -12,10 +12,12 @@ Article that expands on a new immutable digital fabric remaking the internet wit
 [Blockchain: The invisible technology that is changing the world](https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-the-world)   
 
 ## Blockchain Structure
-[Unspent Transaction Output- UTXO](https://smithandcrown.com/glossary/unspent-transaction-outputs-utxo/)  
+[Unspent Transaction Output- UTXO](https://smithandcrown.com/glossary/unspent-transaction-outputs-utxo/)   
 An explanation on how UTXO’s operate vs other methods.
+
 [Block in Bitcoin](https://www.blockchain.com/btc/block/000000000000000000d4c8b9d5388e42bf084e29546357c63cba8324ed4ec8bf)  
 An individual block in a bitcoin blockchain with all transactions.
+
 [Block in Ethereum](https://etherscan.io/block/0)  
 An individual ethereum block in blockchain with all transactions.
 
