@@ -14,6 +14,10 @@ Article that expands on a new immutable digital fabric remaking the internet wit
 ## Blockchain Structure
 [Unspent Transaction Output- UTXO](https://smithandcrown.com/glossary/unspent-transaction-outputs-utxo/)  
 An explanation on how UTXO’s operate vs other methods.
+[Block in Bitcoin](https://www.blockchain.com/btc/block/000000000000000000d4c8b9d5388e42bf084e29546357c63cba8324ed4ec8bf)  
+An individual block in a bitcoin blockchain with all transactions.
+[Block in Ethereum](https://etherscan.io/block/0)  
+An individual ethereum block in blockchain with all transactions.
 
 ## Basic Operations
 [How does the blockchain work(Part 1)](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)  
