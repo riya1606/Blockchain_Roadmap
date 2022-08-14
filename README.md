@@ -62,3 +62,15 @@ EtherScan is a Block Explorer, Search, API, and Analytics Platform for Ethereum,
 [Blockchain in Healthcare and Life Sciences](https://pages.consensys.net/blockchain-in-healthcare-and-life-sciences)   
 [Consensys Health](https://consensys.net/blog/press-release/consensys-announces-healthcare-spin-off-consensys-health/)  
 [Consensys Blockchain in Healthcare](https://consensys.net/blockchain-use-cases/healthcare-and-the-life-sciences/)   
+
+## Ethereum Smart Contracts
+[What is ethereum?](https://ethereum.org/en/what-is-ethereum/)  
+Introduction to Ethereum, Ethereum Virtual Machine, and how they work.
+
+[Smart Contracts: The blockchain technology that will replace lawyers](https://blockgeeks.com/guides/smart-contracts/)   
+Article explains what smart contracts are and how they allow for the disposal of intermediaries which will saves time and conflict for governments and corporations.
+
+[Introduction to Smart Contracts](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html)  
+ Introduction to the basics of smart contracts and solidity.
+ 
+ 
