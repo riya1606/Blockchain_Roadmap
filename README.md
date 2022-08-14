@@ -74,3 +74,12 @@ Article explains what smart contracts are and how they allow for the disposal of
  Introduction to the basics of smart contracts and solidity.
  
  
+ ## Ethereum Structure
+ [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)  
+ Offers an overview of smart contracts, their types depending on the transaction involved, and blockchain technology providers.
+ 
+ [Account Management](https://ethereum.org/en/developers/docs/accounts/)  
+ Documentation on account management from Ethereum Homestead, an ongoing collaborative effort of volunteers from the Ethereum Community.
+ 
+ [Native: Account Management](https://geth.ethereum.org/docs/dapp/native-accounts)
+ Introduces account management and how it can provide Ethereum integration for your native applications.
