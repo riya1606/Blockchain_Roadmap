@@ -1,5 +1,14 @@
 # Blockchain Roadmap
 A comprehensive view of Blockchain Technology and Online Resources to Master it.
+## Online Courses for Blockchain
+1. [Blockchain Foundation and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases?irclickid=QPXwriSFcxyIUUY36z15iWZRUkDWwE39OQ%3AhxE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2890636&utm_content=b2c)  
+2. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain?irclickid=QPXwriSFcxyIUUY36z15iWZRUkDWwETFOQ%3AhxE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2890636&utm_content=b2c)
+3. [Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/pages/syllabus/)  
+4. [Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/course/build-your-blockchain-az/?ranMID=39197&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-ZcsuAmH8zBZJNs2oNBb9Cg&LSNPUBID=Qouy7GhEEFU&utm_source=aff-campaign&utm_medium=udemyads)  
+5. [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/?ranMID=39197&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-1TnJ73tbXo9JG5Sw8q6BKQ&LSNPUBID=Qouy7GhEEFU&utm_source=aff-campaign&utm_medium=udemyads)  
+6. [Getting Started with Web3 Development](https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/?ranMID=39197&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-.mFht4sUzlF7BnmTd4Jdiw&LSNPUBID=Qouy7GhEEFU&utm_source=aff-campaign&utm_medium=udemyads)
+7. [The Basics of Blockchain: Ethereum, Bitcoin, & More](https://www.udemy.com/course/the-basics-of-blockchain/?ranMID=39197&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-l52OxOu3rA3P9TBmokwH8w&LSNPUBID=Qouy7GhEEFU&utm_source=aff-campaign&utm_medium=udemyads)  
+
 ## Blockchain Introduction
 [Blockchain Introduction](https://www.ibm.com/in-en/topics/what-is-blockchain)   
 This paper was released by Satoshi Nakamoto prior to the release of the now famous cryptocurrency- Bitcoin.   
